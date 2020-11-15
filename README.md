@@ -9,6 +9,6 @@
 ### Integrantes
 
 * **Bautista Xifro** - [GitHub](https://github.com/BautistaXifro)
-* **Gabriel Re** - [GitHub](https://https://github.com/Gabriel-Re)
-* **Mateo Rojas** - [GitHub](https://https://github.com/MateeRojas)
+* **Gabriel Re** - [GitHub](https://github.com/Gabriel-Re)
+* **Mateo Rojas** - [GitHub](https://github.com/MateeRojas)
 * **Santiago Locatelli** - [GitHub](https://github.com/santiagolocatelli)
